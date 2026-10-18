@@ -1,0 +1,6 @@
+R-library/
+.Rhistory
+.RData
+.Rproj.user/
+rsconnect/
+
